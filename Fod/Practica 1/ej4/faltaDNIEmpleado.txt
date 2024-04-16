@@ -1,0 +1,1 @@
+|NRO:         78|EDAD:         56|DNI:          0|APELLIDO:   basualdo|NOMBRE: juan carlos

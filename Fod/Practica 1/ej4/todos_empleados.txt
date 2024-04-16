@@ -1,0 +1,3 @@
+|NRO:         23|EDAD:         24|DNI:     -22013|APELLIDO: sosa rollie|NOMBRE:      jesus
+|NRO:         15|EDAD:         22|DNI:       4524|APELLIDO:      wiehl|NOMBRE:  valentina
+|NRO:        567|EDAD:         78|DNI:        345|APELLIDO:      perez|NOMBRE:       juan
