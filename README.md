@@ -1,2 +1,2 @@
-# FOD2024
-Cursada de fod 2024
+# FOD2025
+Cursada de fod 2025
